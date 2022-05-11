@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Dxwand**
 
-- 💬 Ask me about **Dot-net6,Microservices,SQL server,Entity Framework,ASP.NET/MVC/ASP.NET Core,RESTful APIs**
+- 💬 Ask me about **Dot-net6,Microservices,SQL server,JavaScript,API Gateway,MongoDB, Redis, PostgreSQL,Dapper,CQRS, Mediator Pattern,Entity Framework,ASP.NET/MVC/ASP.NET Core,RESTful APIs**
 
 - 📫 How to reach me **ibrahim.ayman.abd@gmail.com**
 
